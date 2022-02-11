@@ -9,7 +9,6 @@ const App = () => {
     <div>
       <div
         style={{
-          fontFamily: "Josefin Sans",
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
